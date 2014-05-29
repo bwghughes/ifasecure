@@ -1,3 +1,5 @@
 # Included because many Paas's require a requirements.txt file in the project root
 # Just installs the production requirements.
+Flask-DebugToolbar
+factory_boy
 -r requirements/prod.txt
